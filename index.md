@@ -1,8 +1,8 @@
-#Git and GitHub
+# Git and GitHub
 
 
-#Frontend development
+# Frontend development
 
 
-#Figma
+# Figma
 Join us for the next....
